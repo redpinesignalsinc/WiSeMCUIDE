@@ -18,13 +18,3 @@ Redpine Signals RS14100 WiSeMCU™ family of modules are the industry's first Wi
 
 For more details refer to,
 http://www.redpinesignals.com/Products/Wireless_Secure_MCU/Multi-Protocol_Wireless_Secure_MCU_SoCs_&_Modules/RS14100_SoCs_&_Modules.php
-
-
-Packages available for,
-
--> Windows 32-bit
--> Windows 64-bit
--> Linux 32-bit
--> Linux 64-bit
-
-OpenOCD Source Code available for download.
